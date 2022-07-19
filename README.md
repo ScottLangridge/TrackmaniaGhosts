@@ -2,7 +2,7 @@
 Play TMNF against your friend's ghosts
 
 # Quickstart
-1. Download and install git bash
+Note: These steps assume you already have git installed and have been made a collaborator on the repo.
 1. [Download the game for free on steam](https://store.steampowered.com/app/11020/TrackMania_Nations_Forever/) (Its years old, so it's a pretty tiny download)
 1. Launch it and check it runs. If you get a white screen [this should sort it](https://steamcommunity.com/sharedfiles/filedetails/?id=448953593).
 1. Navigate to C:\Users\USERNAME\Documents\TrackMania\Tracks\Replays\ , and clone this repo
